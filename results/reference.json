@@ -1,0 +1,17 @@
+{
+  "rows": 33380,
+  "rainy_hours": 4681,
+  "dry_hours": 28699,
+  "response": "log1p(total_vol)",
+  "alpha": 0.05,
+  "welch_t_test": {
+    "statistic": -3.95457254394007,
+    "p_value": 7.752596675879407e-05,
+    "reject_equal_means": true
+  },
+  "one_way_anova": {
+    "statistic": 16.37347608961671,
+    "p_value": 5.2124972604979435e-05,
+    "reject_equal_means": true
+  }
+}
